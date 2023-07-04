@@ -9,4 +9,4 @@ In this project we web scraped a stock screener to get an excel file with potent
 
 With our program we can get in seconds an excel file with pontential stocks, otherwise it would take more time to filter manually and create a list. The web scraping file can be found as "StockScreener.ipynb", the excel file is "stocks_database.xlsx" and the criteria used to filter stocks can be visualized in "Stock_Screener_Filters.png".
 
-Disclaimer:
+Disclaimer: web scraping can be ilegal in some web sites, this project is only for educational purpose not commercial. All the rights belong to https://www.marketwatch.com/ and a permission is neccesary before web scraping.
