@@ -7,4 +7,6 @@ In this project we web scraped a stock screener to get an excel file with potent
 -Their market capitalization are between 50M to 1B.
 -They are outperforming their 50 day moving average.
 
-With our program we can get in seconds an excel file with pontential stocks, otherwise it would take more time to filter manually and create a list. The web scraping file can be found as "StockScreener.ipynb", the excel file is  
+With our program we can get in seconds an excel file with pontential stocks, otherwise it would take more time to filter manually and create a list. The web scraping file can be found as "StockScreener.ipynb", the excel file is "stocks_database.xlsx" and the criteria used to filter stocks can be visualized in "Stock_Screener_Filters.png".
+
+Disclaimer:
